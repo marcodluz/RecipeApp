@@ -37,7 +37,7 @@
 <h3 align="center">Recipe Application</h3>
 
   <p align="center">
-    project_description
+    The best app to prevent food waste
     <br />
     <a href="https://github.com/marcodluz/RecipeApp"><strong>Explore the docs »</strong></a>
     <br />
@@ -93,7 +93,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -189,7 +188,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Marco Luz - [@twitter_handle](https://twitter.com/marcodluz) - hi@marcoluz.com
+Marco Luz - [@marcodluz](https://twitter.com/marcodluz) - hi@marcoluz.com
 
 Project Link: [https://github.com/marcodluz/RecipeApp](https://github.com/marcodluz/RecipeApp)
 
