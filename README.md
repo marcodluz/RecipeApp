@@ -81,8 +81,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-#[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 RecipeApp is an open-source fully customizable recipe platform developed in ReactJS.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
