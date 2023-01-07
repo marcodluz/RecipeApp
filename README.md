@@ -102,7 +102,8 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* <b>NoteJS</b> - Install it using the Note.js official website: <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a>
+* <b>NoteJS</b> - Download and install it using the Note.js official website: <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a>
+* <b>ExpoCLI</b>
 
 ### Installation
 
