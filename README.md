@@ -102,12 +102,25 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-* <b>NoteJS</b> - Download and install it using the Note.js official website: <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a>
+* <b>NoteJS</b> - Download and install it using the Note.js official website: https://nodejs.org/en/download/
 * <b>ExpoCLI</b>
+* <b>Expo Go</b> - Download it for your phone (IOS/Android): <a href="https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_GB&gl=US&pli=1">Google Play</a> or <a href="https://apps.apple.com/us/app/expo-go/id982107779">App Store</a>
 
 ### Installation
 
-Step 1 - Download the project in a ZIP folder: https://github.com/marcodluz/RecipeApp/archive/refs/heads/master.zip
+<b>Please make sure that all the prerequisites are installed correctly before starting this stage of installing the project.</b>
+
+* <b>Step 1</b> - Download and unzip it into a folder: https://github.com/marcodluz/RecipeApp/archive/refs/heads/master.zip
+
+* <b>Step 2</b> - Open the folder in Visual Studio Code
+
+* <b>Step 3</b> - Open a Bash Terminal in VSCode
+
+* <b>Step 4</b> - Type the command: <b>npm install</b>. Wait until everything is finished.
+
+* <b>Step 5</b> - Type the command: <b>expo start</b>
+
+* <b>Step 6</b> - Scan the QR Code presented in the Bash Terminal with your phone.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
