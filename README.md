@@ -107,7 +107,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-NO INFO YET
+Step 1 - Download the project in a ZIP folder: https://github.com/marcodluz/RecipeApp/archive/refs/heads/master.zip
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
