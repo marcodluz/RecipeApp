@@ -102,7 +102,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-NO INFO YET
+NoteJS - Install it using the Note.js official website: <a href="https://nodejs.org/en/download/">https://nodejs.org/en/download/</a>
 
 ### Installation
 
